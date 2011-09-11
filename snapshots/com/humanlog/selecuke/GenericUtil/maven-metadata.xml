@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.humanlog.selecuke</groupId>
+  <artifactId>GenericUtil</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20110911142113</lastUpdated>
+  </versioning>
+</metadata>
