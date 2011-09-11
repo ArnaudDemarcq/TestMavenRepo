@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.humanlog.selecuke</groupId>
   <artifactId>SelecukeParent</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <buildNumber>1</buildNumber>
+      <timestamp>20110911.131028</timestamp>
+      <buildNumber>2</buildNumber>
     </snapshot>
-    <lastUpdated>20110910165030</lastUpdated>
+    <lastUpdated>20110911131028</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0-20110911.131028-2</value>
+        <updated>20110911131028</updated>
+      </snapshotVersion>
+    </snapshotVersions>
   </versioning>
 </metadata>

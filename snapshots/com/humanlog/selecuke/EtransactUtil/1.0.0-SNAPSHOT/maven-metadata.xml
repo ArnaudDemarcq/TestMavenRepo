@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.humanlog.selecuke</groupId>
   <artifactId>EtransactUtil</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <buildNumber>1</buildNumber>
+      <timestamp>20110911.131027</timestamp>
+      <buildNumber>2</buildNumber>
     </snapshot>
-    <lastUpdated>20110910165030</lastUpdated>
+    <lastUpdated>20110911131027</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.0-20110911.131027-2</value>
+        <updated>20110911131027</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0-20110911.131027-2</value>
+        <updated>20110911131027</updated>
+      </snapshotVersion>
+    </snapshotVersions>
   </versioning>
 </metadata>

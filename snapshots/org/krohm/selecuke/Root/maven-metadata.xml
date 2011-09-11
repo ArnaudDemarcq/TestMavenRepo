@@ -2,11 +2,10 @@
 <metadata>
   <groupId>org.krohm.selecuke</groupId>
   <artifactId>Root</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
   <versioning>
     <versions>
       <version>1.0.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20110910165030</lastUpdated>
+    <lastUpdated>20110911131028</lastUpdated>
   </versioning>
 </metadata>
